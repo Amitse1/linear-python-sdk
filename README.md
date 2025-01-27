@@ -1,4 +1,4 @@
-# Linear Python SDK
+# Linear Python (Unofficial) SDK
 
 A Python client for the [Linear](https://linear.app) API. This SDK provides a convenient interface to interact with Linear's GraphQL API.
 
